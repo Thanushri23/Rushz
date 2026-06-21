@@ -39,11 +39,11 @@ flutter pub get
 flutter run
 ```
 
-You'll need a Supabase project set up with the relevant tables for venues, cabins/courts, bookings, and user roles. _[Add `.env` / config setup instructions here if applicable]_
+You'll need a Supabase project set up with the relevant tables for venues, cabins/courts, bookings, and user roles. 
 
 ## Status
 
-Core booking flow is fully functional end-to-end for both customer and admin roles. _[Add anything in progress, e.g. payments, notifications, ratings]_
+Core booking flow is fully functional end-to-end for both customer and admin roles. 
 
 ## What I'd Improve Next
 
@@ -51,4 +51,4 @@ _[Optional but recommended — shows growth mindset to recruiters, e.g. "Add pay
 
 ---
 
-Built by [Your Name] — [LinkedIn] · [Portfolio]
+Built by THANUSHRI VUNDAVALLI — [LinkedIn - (https://www.linkedin.com/in/thanushri-vundavalli/)] 
