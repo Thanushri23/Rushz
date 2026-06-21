@@ -27,7 +27,7 @@ Rushz solves a real scheduling problem: small entertainment venues (arcades, min
 |---|---|
 | Frontend | Flutter (Dart) — Android, iOS, Web |
 | Backend | Supabase (PostgreSQL database, Auth, real-time subscriptions) |
-| State Management | _[fill in: Provider / Riverpod / Bloc / GetX / setState]_ |
+| State Management | Riverpod / setState |
 | Auth | Supabase Auth — role-based access (Admin / Customer) |
 
 ## Getting Started
